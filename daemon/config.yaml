@@ -1,0 +1,16 @@
+- category:
+    name: 宗教
+    keywords: [培灵,布道,灵修,唱诗,身心灵]
+    number: 1
+- category:
+    name: 非法集合
+    keywords: [上访,集会,游行,抗议,声讨,抵制]
+    number: 2
+- category:
+    name: 环境
+    keywords: [污染,环保,环境,排放,环评,垃圾,污水,恶臭,河水]
+    number: 2
+- category:
+    name: 医患关系
+    keywords: [庸医,医闹]
+    number: 1
